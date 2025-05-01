@@ -1,5 +1,7 @@
 # Censys subdomain finder
 
+**Important note**: As of late 2024, Censys does not provide API access to free accounts anymore.
+
 This is a tool to enumerate subdomains using the Certificate Transparency logs stored in [Censys Search](https://search.censys.io). It should return any subdomain who has ever been issued a SSL certificate by a public CA.
 
 See it in action:
